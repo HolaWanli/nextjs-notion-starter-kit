@@ -18,8 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'itsWanlio',
-  github: 'Holawanli',
-  linkedin: 'fisch2',
+  github: 'Holawanli'
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
