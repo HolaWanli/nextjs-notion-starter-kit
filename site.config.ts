@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c978b2a06ccf4befa83e753ea0777d48',
+  rootNotionPageId: 'b94c663465fd45d3a03ed2928ecfc1e3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Wanli-Make Your Own Gear',
+  name: 'Wanli's Notes',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Wanli',
 
@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'itsWanlio',
-  github: 'Holawanli'
+  //twitter: '#',
+  // github: '#'
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
